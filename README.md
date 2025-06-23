@@ -21,7 +21,7 @@ X<sup>2</sup> // also can use ^ ^
 
 H<sub>2</sub>O // also can use ~ ~ 
 
-//copy paste emoji for usinh emoji 😊 
+//copy paste emoji for using emoji 😊 
 
 `This is code`
 
