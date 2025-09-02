@@ -66,7 +66,7 @@ ___
 |---|---|
 |A|B|
 
-:--- to aligh text left , ---: to align text right , :---: to align text middle 
+:--- to align text left , ---: to align text right , :---: to align text middle 
 |Col 1|Col 2|Col 3|
 |:---|---:|:---:|
 |A|B|C|
